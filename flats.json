@@ -20,12 +20,12 @@
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "name": "Pindangan Ruins",
+    "imageUrl": "https://github.com/jaaan16/itelective/blob/master/image/pindangan-ruins.jpg",
     "price": 150,
-    "priceCurrency": "EUR",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "priceCurrency": "PHP",
+    "lat": 16.5881,
+    "lng": 120.3146
   },
   {
     "id": 205,
