@@ -39,7 +39,7 @@
   {
     "id": 210,
     "name": "Acapulco Beach",
-    "imageUrl": "https://github.com/jaaan16/itelective/blob/master/image/download%20(2).jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/download%20(2).jpg",
     "price": 135,
     "priceCurrency": "PHP",
     "lat": 16.5987,
