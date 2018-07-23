@@ -47,11 +47,11 @@
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
+    "name": "CSI City Mall",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
     "price": 90,
-    "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "priceCurrency": "PHP",
+    "lat": 16.6293,
+    "lng": 120.3223
   }
 ]
