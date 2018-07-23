@@ -12,7 +12,7 @@
   {
     "id": 148,
     "name": "Macho Temple",
-    "imageUrl": "https://github.com/jaaan16/itelective/blob/master/image/macho%20temple.JPG",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/macho%20temple.JPG",
     "price": 200,
     "priceCurrency": "PHP",
     "lat": 16.6212,
