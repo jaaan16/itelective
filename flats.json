@@ -12,7 +12,7 @@
   {
     "id": 148,
     "name": "Macho Temple",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/machotemple.JPG",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/machotemple.jpg",
     "price": 200,
     "priceCurrency": "PHP",
     "lat": 48.885707,
