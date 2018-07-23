@@ -21,7 +21,7 @@
   {
     "id": 201,
     "name": "Pindangan Ruins",
-    "imageUrl": "https://github.com/jaaan16/itelective/blob/master/image/pindangan-ruins.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/pindangan-ruins.jpg",
     "price": 150,
     "priceCurrency": "PHP",
     "lat": 16.5881,
