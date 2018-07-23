@@ -11,10 +11,10 @@
   },
   {
     "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
+    "name": "Macho Temple",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/machotemple.JPG",
     "price": 200,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 48.885707,
     "lng": 2.343543
   },
