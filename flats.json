@@ -29,12 +29,12 @@
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
+    "name": "Thunderbird Resort and Casino",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
     "price": 115,
-    "priceCurrency": "EUR",
-    "lat": 16.6212,
-    "lng": 120.3175
+    "priceCurrency": "PHP",
+    "lat": 16.6091,
+    "lng": 120.2865
   },
   {
     "id": 210,
