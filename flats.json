@@ -38,12 +38,12 @@
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "name": "Acapulco Beach",
+    "imageUrl": "https://github.com/jaaan16/itelective/blob/master/image/download%20(2).jpg",
     "price": 135,
-    "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "priceCurrency": "PHP",
+    "lat": 16.5987,
+    "lng": 120.3009
   },
   {
     "id": 211,
