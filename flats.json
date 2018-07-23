@@ -30,7 +30,7 @@
   {
     "id": 205,
     "name": "Thunderbird Resort and Casino",
-    "imageUrl": "https://github.com/jaaan16/itelective/blob/master/image/ThunderbirdsPhilippines.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/ThunderbirdsPhilippines.jpeg",
     "price": 115,
     "priceCurrency": "PHP",
     "lat": 16.6091,
