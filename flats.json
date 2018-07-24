@@ -54,11 +54,11 @@
     "id": 211,
     "name": "Pugad Adventure",
     "nagan": "Pugad",
-    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/2722904930_02b97cde28_b.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/pugad.jpg",
     "price": 250,
     "priceCurrency": "PHP",
-    "lat": 16.6293,
-    "lng": 120.3223
+    "lat": 16.3367,
+    "lng": 120.4788
   },
    {
     "id": 219,
