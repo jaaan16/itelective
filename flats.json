@@ -3,6 +3,7 @@
   {
     "id": 145,
     "name": "Tangadan Falls",
+    "nagan": "Tangadan Falls",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/tangadan.jpeg",
     "price": 164,
     "priceCurrency": "PHP",
@@ -12,6 +13,7 @@
   {
     "id": 148,
     "name": "Macho Temple",
+    "nagan": "Macho Temple",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/macho%20temple.JPG",
     "price": 200,
     "priceCurrency": "PHP",
@@ -21,6 +23,7 @@
   {
     "id": 201,
     "name": "Pindangan Ruins",
+    "nagan": "Pindangan Ruins",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/pindangan-ruins.jpg",
     "price": 150,
     "priceCurrency": "PHP",
@@ -30,6 +33,7 @@
   {
     "id": 205,
     "name": "Thunderbird Resort and Casino",
+    "nagan": "Thunderbird",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/ThunderbirdsPhilippines.jpeg",
     "price": 115,
     "priceCurrency": "PHP",
@@ -39,6 +43,7 @@
   {
     "id": 210,
     "name": "Acapulco Beach",
+    "nagan": "Acapulco Beach",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/download%20(2).jpg",
     "price": 135,
     "priceCurrency": "PHP",
@@ -48,6 +53,7 @@
   {
     "id": 211,
     "name": "CSI City Mall",
+    "nagan": "VSI City Mall",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/2722904930_02b97cde28_b.jpg",
     "price": 90,
     "priceCurrency": "PHP",
@@ -57,6 +63,7 @@
    {
     "id": 2199,
     "name": "CSI City Mall",
+     "nagan": "BALAY MI",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/2722904930_02b97cde28_b.jpg",
     "price": 90,
     "priceCurrency": "PHP",
