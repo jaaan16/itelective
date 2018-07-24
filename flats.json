@@ -70,15 +70,6 @@
     "lat": 16.5380,
     "lng": 120.3306
   },
-  {
-    "id": 2191,
-    "name": "zzz",
-    "nagan": "zzzz",
-    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/18699982_1448050615251906_1169697522458531395_n.jpg",
-    "price": 150,
-    "priceCurrency": "PHP",
-    "lat": 16.6325,
-    "lng": 120.3181
-  },
+ 
 ]
 
