@@ -6,7 +6,7 @@
     "nagan": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/boracay1.jpg",
     "price": 1000,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 11.9674,
     "lng": 121.9248
   },
@@ -16,7 +16,7 @@
     "nagan": "Tagaytay",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/tagaytay.png",
     "price": 200,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 14.1153,
     "lng": 120.9621
   },
@@ -26,7 +26,7 @@
     "nagan": "Batanes",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/batanes1.jpg",
     "price": 1000,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 20.4485,
     "lng": 121.9708
   },
@@ -36,7 +36,7 @@
     "nagan": "Thunderbird",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/ThunderbirdsPhilippines.jpeg",
     "price": 500,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 16.6091,
     "lng": 120.2865
   },
@@ -46,7 +46,7 @@
     "nagan": "Coron Palawan",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/coron.jpg",
     "price": 1000,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 12.0499,
     "lng": 120.1782
   },
@@ -66,7 +66,7 @@
      "nagan": "BALAY TI BARU",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/balay%20ti%20baru.png",
     "price": 100,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 16.5380,
     "lng": 120.3306
   },
@@ -87,7 +87,7 @@
     "nagan": "Bohol",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/bohol-comp.jpg",
     "price": 4000,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 9.8500,
     "lng": 124.1435
   },
@@ -97,7 +97,7 @@
     "nagan": "Camiguin Island",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/camiguinjpg.jpg",
     "price": 2500,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 9.1732,
     "lng": 124.7299
   },
@@ -117,7 +117,7 @@
     "nagan": "El Nido",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/elnido.jpg",
     "price": 4500,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 11.2097,
     "lng": 119.4623
   },  
@@ -127,7 +127,7 @@
     "nagan": "Kalanggaman Island",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/Kalanggaman-Island-Video-1.jpg",
     "price": 3500,
-    "priceCurrency": "PHP",
+    "priceCurrency": "Km",
     "lat": 11.1144,
     "lng": 124.2495
   }
