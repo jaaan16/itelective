@@ -12,13 +12,13 @@
   },
   {
     "id": 148,
-    "name": "Macho Temple",
-    "nagan": "Macho Temple",
-    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/macho%20temple.JPG",
+    "name": "Tagaytay",
+    "nagan": "Tagaytay",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/tagaytay.png",
     "price": 200,
     "priceCurrency": "PHP",
-    "lat": 16.6212,
-    "lng": 120.3175
+    "lat": 14.1153,
+    "lng": 120.9621
   },
   {
     "id": 201,
