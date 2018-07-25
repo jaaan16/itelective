@@ -115,11 +115,11 @@
     "id": 150,
     "name": "El Nido",
     "nagan": "El Nido",
-    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/boracay1.jpg",
-    "price": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/elnido.jpg",
+    "price": 4500,
     "priceCurrency": "PHP",
-    "lat": 11.9674,
-    "lng": 121.9248
+    "lat": 11.2097,
+    "lng": 119.4623
   },  
   {
     "id": 149,
