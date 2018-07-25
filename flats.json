@@ -15,7 +15,7 @@
     "name": "Tagaytay",
     "nagan": "Tagaytay",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/tagaytay.png",
-    "price": 200,
+    "price": 330.0,
     "priceCurrency": "Km",
     "lat": 14.1153,
     "lng": 120.9621
@@ -35,7 +35,7 @@
     "name": "Thunderbird Resort and Casino",
     "nagan": "Thunderbird",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/ThunderbirdsPhilippines.jpeg",
-    "price": 500,
+    "price": 11.4,
     "priceCurrency": "Km",
     "lat": 16.6091,
     "lng": 120.2865
