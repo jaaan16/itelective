@@ -62,13 +62,13 @@
   },
    {
     "id": 219,
-    "name": "Balay ti Baru",
-     "nagan": "BALAY TI BARU",
-    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/balay%20ti%20baru.png",
+    "name": "Kalanggaman Island",
+     "nagan": "Kalanggaman Island",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/Kalanggaman-Island-Video-1.jpg",
     "price": 0,
     "priceCurrency": "Km",
-    "lat": 16.5380,
-    "lng": 120.3306
+    "lat": 11.1144,
+    "lng": 124.2495
   },
   
   {
@@ -128,8 +128,8 @@
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/balay%20ti%20baru.png",
     "price": 736,
     "priceCurrency": "Km",
-    "lat": 11.1144,
-    "lng": 124.2495
+    "lat": 16.5380,
+    "lng": 120.3306
   }
   ]
 
