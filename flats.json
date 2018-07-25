@@ -73,13 +73,13 @@
   
   {
     "id": 146,
-    "name": "Boracay",
-    "nagan": "Boracay",
-    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/boracay.jpg",
+    "name": "Baguio City",
+    "nagan": "Baguio City",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/baguio.jpg",
     "price": 1000,
     "priceCurrency": "PHP",
-    "lat": 11.9674,
-    "lng": 121.9248
+    "lat": 16.4023,
+    "lng": 120.5960
   }
   ]
 
