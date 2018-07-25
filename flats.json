@@ -80,6 +80,16 @@
     "priceCurrency": "PHP",
     "lat": 16.4023,
     "lng": 120.5960
+  },
+  {
+    "id": 145,
+    "name": "Boracay",
+    "nagan": "Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/boracay1.jpg",
+    "price": 1000,
+    "priceCurrency": "PHP",
+    "lat": 11.9674,
+    "lng": 121.9248
   }
   ]
 
