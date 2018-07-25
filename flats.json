@@ -45,7 +45,7 @@
     "name": "Coron Palawan",
     "nagan": "Coron Palawan",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/coron.jpg",
-    "price": 1000,
+    "price": 704.1 ,
     "priceCurrency": "Km",
     "lat": 12.0499,
     "lng": 120.1782
@@ -55,7 +55,7 @@
     "name": "Pugad Adventure",
     "nagan": "Pugad",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/pugad.jpg",
-    "price": 250,
+    "price": 41.9,
     "priceCurrency": "Km",
     "lat": 16.3367,
     "lng": 120.4788
@@ -65,7 +65,7 @@
     "name": "Balay ti Baru",
      "nagan": "BALAY TI BARU",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/balay%20ti%20baru.png",
-    "price": 100,
+    "price": 0,
     "priceCurrency": "Km",
     "lat": 16.5380,
     "lng": 120.3306
@@ -76,7 +76,7 @@
     "name": "Baguio City",
     "nagan": "Baguio City",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/baguio.jpg",
-    "price": 1000,
+    "price": 49.0,
     "priceCurrency": "Km",
     "lat": 16.4023,
     "lng": 120.5960
@@ -86,7 +86,7 @@
     "name": "Bohol",
     "nagan": "Bohol",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/bohol-comp.jpg",
-    "price": 4000,
+    "price": 1,185.6,
     "priceCurrency": "Km",
     "lat": 9.8500,
     "lng": 124.1435
@@ -96,7 +96,7 @@
     "name": "Camiguin Island",
     "nagan": "Camiguin Island",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/camiguinjpg.jpg",
-    "price": 2500,
+    "price": 1,338.8,
     "priceCurrency": "Km",
     "lat": 9.1732,
     "lng": 124.7299
@@ -106,7 +106,7 @@
     "name": "Malapascua Island",
     "nagan": "Malapascua Island",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/malapascua.jpg",
-    "price": 2000,
+    "price": 708,
     "priceCurrency": "Km",
     "lat": 11.3358,
     "lng": 124.1156
@@ -116,7 +116,7 @@
     "name": "El Nido",
     "nagan": "El Nido",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/elnido.jpg",
-    "price": 4500,
+    "price": 877.6,
     "priceCurrency": "Km",
     "lat": 11.2097,
     "lng": 119.4623
@@ -126,7 +126,7 @@
     "name": "Kalanggaman Island",
     "nagan": "Kalanggaman Island",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/Kalanggaman-Island-Video-1.jpg",
-    "price": 3500,
+    "price": 736,
     "priceCurrency": "Km",
     "lat": 11.1144,
     "lng": 124.2495
