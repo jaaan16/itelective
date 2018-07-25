@@ -105,11 +105,11 @@
     "id": 148,
     "name": "Malapascua Island",
     "nagan": "Malapascua Island",
-    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/boracay1.jpg",
-    "price": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/malapascua.jpg",
+    "price": 2000,
     "priceCurrency": "PHP",
-    "lat": 11.9674,
-    "lng": 121.9248
+    "lat": 11.3358,
+    "lng": 124.1156
   }
   ]
 
