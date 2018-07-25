@@ -92,14 +92,14 @@
     "lng": 124.1435
   },
   {
-    "id": 145,
+    "id": 147,
     "name": "Camiguin Island",
     "nagan": "Camiguin Island",
-    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/boracay1.jpg",
-    "price": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/camiguinjpg.jpg",
+    "price": 2500,
     "priceCurrency": "PHP",
-    "lat": 11.9674,
-    "lng": 121.9248
+    "lat": 9.1732,
+    "lng": 124.7299
   }
   ]
 
