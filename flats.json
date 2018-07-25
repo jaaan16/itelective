@@ -110,6 +110,25 @@
     "priceCurrency": "PHP",
     "lat": 11.3358,
     "lng": 124.1156
+  },
+    {
+    "id": 145,
+    "name": "Boracay",
+    "nagan": "Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/boracay1.jpg",
+    "price": 1000,
+    "priceCurrency": "PHP",
+    "lat": 11.9674,
+    "lng": 121.9248
+  },  {
+    "id": 149,
+    "name": "Kalanggaman Island",
+    "nagan": "Kalanggaman Island",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/boracay1.jpg",
+    "price": 3500,
+    "priceCurrency": "PHP",
+    "lat": 11.1144,
+    "lng": 124.2495
   }
   ]
 
