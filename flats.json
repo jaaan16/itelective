@@ -22,13 +22,13 @@
   },
   {
     "id": 201,
-    "name": "Pindangan Ruins",
-    "nagan": "Pindangan Ruins",
-    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/pindangan-ruins.jpg",
-    "price": 150,
+    "name": "Batanes",
+    "nagan": "Batanes",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/Batanes.jpg",
+    "price": 1000,
     "priceCurrency": "PHP",
-    "lat": 16.5881,
-    "lng": 120.3146
+    "lat": 20.4485,
+    "lng": 121.9708
   },
   {
     "id": 205,
@@ -45,7 +45,7 @@
     "name": "Acapulco Beach",
     "nagan": "Acapulco Beach",
     "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/download%20(2).jpg",
-    "price": 100,
+    "price": 1000,
     "priceCurrency": "PHP",
     "lat": 16.5987,
     "lng": 120.3009
