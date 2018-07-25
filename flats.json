@@ -120,7 +120,8 @@
     "priceCurrency": "PHP",
     "lat": 11.9674,
     "lng": 121.9248
-  },  {
+  },  
+  {
     "id": 149,
     "name": "Kalanggaman Island",
     "nagan": "Kalanggaman Island",
@@ -129,7 +130,7 @@
     "priceCurrency": "PHP",
     "lat": 11.1144,
     "lng": 124.2495
-  }
+  },
   ]
 
 
