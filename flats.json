@@ -83,13 +83,13 @@
   },
   {
     "id": 145,
-    "name": "Boracay",
-    "nagan": "Boracay",
-    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/boracay1.jpg",
-    "price": 1000,
+    "name": "Bohol",
+    "nagan": "Bohol",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/bohol-comp.jpg",
+    "price": 4000,
     "priceCurrency": "PHP",
-    "lat": 11.9674,
-    "lng": 121.9248
+    "lat": 9.8500,
+    "lng": 124.1435
   }
   ]
 
