@@ -2,13 +2,13 @@
 [
   {
     "id": 145,
-    "name": "Tangadan Falls",
-    "nagan": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/tangadan.jpeg",
-    "price": 300,
+    "name": "Boracay",
+    "nagan": "Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/boracay.jpg",
+    "price": 1000,
     "priceCurrency": "PHP",
-    "lat": 16.6436,
-    "lng": 120.4488
+    "lat": 11.9674,
+    "lng": 121.9248
   },
   {
     "id": 148,
