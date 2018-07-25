@@ -42,13 +42,13 @@
   },
   {
     "id": 210,
-    "name": "Acapulco Beach",
-    "nagan": "Acapulco Beach",
-    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/download%20(2).jpg",
+    "name": "Coron Palawan",
+    "nagan": "Coron Palawan",
+    "imageUrl": "https://raw.githubusercontent.com/jaaan16/itelective/master/image/coron.jpg",
     "price": 1000,
     "priceCurrency": "PHP",
-    "lat": 16.5987,
-    "lng": 120.3009
+    "lat": 12.0499,
+    "lng": 120.1782
   },
   {
     "id": 212,
